@@ -7,7 +7,7 @@ Extensão para o Google Chrome para aumentar a velocidade dos áudios do Whatsap
 
 
 
-2. Abra o Google Chrome e acesse a página [chrome://extensions/](chrome://extensions/)
+2. Abra o Google Chrome e digite na barra de navegação:  [chrome://extensions/](chrome://extensions/)
 3. Deixe ativado o Modo do desenvolvedor.
 4. Clique em Carregar sem compactação. 
 5. Selecione a pasta que foi descompactada. 
